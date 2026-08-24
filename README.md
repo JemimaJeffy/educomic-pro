@@ -1,12 +1,5 @@
 # EduComic Pro 🎨📚
 
-> Turn complex topics and YouTube videos into engaging, age-appropriate educational comic strips using Google Gemini and OpenAI Whisper.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)](https://fastapi.tiangolo.com/)
-
 ---
 
 ## ✨ Features
@@ -20,6 +13,11 @@
 * **Consistent Characters:** Leverages an iterative context window to preserve visual continuity across panels.
 * **Modern Studio UI:** Professional dark-mode interface built with React and Tailwind CSS.
 * **Live Console:** Terminal-style status logs to track the AI's "thought process" in real-time.
+
+![EduComic Pro UI Studio](."./generated_comics/comic_maxim_1.png")
+
+Listen to a sample audio output created with the app:
+<audio controls src="./generated_audio/maximum_subarray_problem__page_1.mp3"></audio>
 
 ---
 
